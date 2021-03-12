@@ -9,3 +9,8 @@ Features of the BMI Health Calculator include detailed Body Mass Index calculati
 Users also have the option to save their latest result in a form of screenshot.
 There are numerous cases where obesity becomes fatal, and may lead to chronic complications such as diabetes, heart attack, stroke, and cancer.
 Living a healthy life is a continuous process, and it is our hope that this application could be a trusted companion for users to live a healthy lifestyle with a balanced diet plan.
+
+# Documentation
+
+![Screenshot](BMI-1.jpg)
+![Screenshot](BMI-2.jpg)
