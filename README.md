@@ -12,5 +12,5 @@ Living a healthy life is a continuous process, and it is our hope that this appl
 
 # Documentation
 
-![Screenshot](BMI-1.jpg)
-![Screenshot](BMI-2.jpg)
+![Screenshot](BMI-1.jpg)![Screenshot](BMI-2.jpg)
+
